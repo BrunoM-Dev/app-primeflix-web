@@ -1,0 +1,28 @@
+.erro-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    width: 100vw;
+}
+
+.erro-box span {
+    font-size: 7rem;
+    font-weight: bold;
+}
+
+.erro-box h1 {
+    font-size: 34px;
+}
+
+.erro-box a {
+    padding: 10px 10px;
+    border-radius: 10px;
+    border: 0;
+    margin-top: 20px;
+    font-size: 20px;
+    background-color: #116FEB;
+    color: #fff;
+    text-decoration: none;
+}
